@@ -39,5 +39,3 @@ Congratulations, this concludes our demo, in the case we don’t need the static
 
 
 terraform destroy -auto-approve
-
-If you want to know more about terraform or azure check other posts in our blog.
