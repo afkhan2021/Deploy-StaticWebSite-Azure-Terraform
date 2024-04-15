@@ -32,7 +32,7 @@ terraform apply -auto-approve
 Step 3 – Go to the Azure portal and check if everthing is fine, now you can visit the static website that is in the blob storage,
 
 
-website_index-url = "https://staticwebsitet256.z13.web.core.windows.net/"
+website_index-url = "https://staticwebsitet256.z9.web.core.windows.net/"
 
 
 Congratulations, this concludes our demo, in the case we don’t need the static website resource anymore we can destroy with the following command:
